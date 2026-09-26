@@ -1,1 +1,7 @@
-
+event_id,name,zone_id,start_hour,end_hour,expected_attendance
+E1,Opening Ceremony,Z01,30,33,48000
+E2,Group Match A,Z01,54,57,41000
+E3,Cultural Night,Z03,66,70,21000
+E4,Group Match B,Z01,78,81,44000
+E5,Semi Final,Z01,102,105,58000
+E6,Closing Concert,Z03,114,118,33000

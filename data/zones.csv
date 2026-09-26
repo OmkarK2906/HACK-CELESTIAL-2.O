@@ -1,0 +1,11 @@
+zone_id,name,lat,lng,hotel_capacity,avg_nightly_rate,is_venue_zone,distance_to_venue_km,demand_elasticity
+Z01,Stadium Precinct,19.076,72.8777,4200,6800,True,0.0,1.125
+Z02,Riverside East,19.0896,72.8656,3100,4200,False,1.98,0.573
+Z03,Old Town,19.065,72.889,2400,5200,False,1.7,0.798
+Z04,Metro Interchange,19.0812,72.8501,1800,4900,False,2.96,0.751
+Z05,North Gate,19.102,72.872,2900,5100,False,2.95,1.213
+Z06,Airport Corridor,19.099,72.834,3600,7400,False,5.26,1.159
+Z07,Lakeside,19.054,72.862,1500,3800,False,2.95,1.353
+Z08,Business District,19.07,72.845,2700,8100,False,3.5,0.628
+Z09,South Market,19.048,72.88,2100,3600,False,3.12,0.93
+Z10,West End,19.087,72.821,2000,4400,False,6.08,0.577
